@@ -1,3 +1,26 @@
+/*******************************************************************************
+ * @file    GPIO.h
+ * @author  Moustafa Noufale
+ * @email   mustafa13e09940@alexu.edu.eg
+ * @date    01.06.2020
+ *
+ * @brief   GPIO Initalization and Interrupt Handler functions.
+ * @note
+ *
+
+Copyright (C) Moustafa Noufale, 2020
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program.  If not, see <http://www.gnu.org/licenses/>.
+@endverbatim
 /*========================GPIO DEVICE DRIVER STM32F407 		=================================*/
 #ifndef __GPIO_H
 #define __GPIO_H
